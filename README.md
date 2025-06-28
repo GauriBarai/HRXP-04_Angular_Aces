@@ -1,28 +1,36 @@
-R2-04: AI Companion – Quest
-Smart Gamified Learning Buddy
+🎓 AI-Powered Emotion-Aware Learning Companion
+🧠 Overview
+Problem Statement:
+Traditional video-based learning platforms often result in low engagement and poor knowledge retention due to boredom, distractions, and a lack of emotional connection. Learners receive the same static content regardless of their mood, interaction style, or learning pace.
 
-An emotion-aware, AI-powered learning platform that personalizes the learner’s journey with interactive support, gamification, and post-lesson DIY activities.
+Solution:
+This project aims to build a dynamic, AI-powered learning companion that understands and reacts to user emotions, interaction patterns, and progress. It enhances user engagement through gamification, emotional responsiveness, and personalized learning paths.
 
-🧩 Problem Statement
-Learners using video-based platforms often face:
+💡 Key Features
+🎭 Emotion Detection via Webcam
 
- Boredom from static content
+Real-time emotion recognition using facial expressions.
 
- Disconnection due to lack of emotional engagement
+🧩 Gamified Learning
 
- Poor retention from passive learning
+Quests, streaks, point boosters, badges.
 
-Traditional platforms don’t adapt to the learner’s mood, pace, or interaction behavior — resulting in disengagement.
+XP system and motivational feedback.
 
-🧠 Solution
-AI Companion – Quest is a smart, responsive learning platform that:
-Uses emotion detection to sense boredom, sadness, or excitement in real-time
+🧠 Personalized Content Delivery
 
-Adapts tone and feedback of a chatbot tutor based on mood
+Adapts learning content based on:
 
-Adds gamified elements like quests, streaks, points, and badges
+Mood (e.g., cheerful feedback for a sad learner)
 
-Recommends hands-on DIY activities post-video to reinforce concepts
+Interaction speed and quiz performance
 
-Tracks user progress, emotion trends, and engagement metrics
+Historical engagement and topic preference
+
+🧪 DIY/Hands-on Activity Suggestions
+
+Intelligent post-lesson recommendations based on the topic and learner's current state.
+
+Includes timers, checklists, and progress trackers.
+
 
